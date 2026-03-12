@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foccus</string>
+    <string name="accessibility_service_label">Foccus — Bloqueador de Apps</string>
+    <string name="accessibility_service_description">O Foccus usa o serviço de acessibilidade para detectar apps em primeiro plano e bloquear aqueles que são distrações durante suas sessões de foco. Nenhum dado pessoal é coletado.</string>
+</resources>
